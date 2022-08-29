@@ -1,0 +1,5 @@
+hatop/*
+hatop.substvars
+.debhelper/*
+debhelper-build-stamp
+files

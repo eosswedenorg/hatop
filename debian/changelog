@@ -1,0 +1,16 @@
+hatop (0.8.2-1) UNRELEASED; urgency=medium
+
+  [ James Hunt ]
+  * Support All Backends for F1/F2
+  * HATop test lab
+  * Fix CLI mode history in Python 2.x
+
+  [ Pavel Skuratovich ]
+  * Make it work with python3 even better (#6)
+
+  [ Henrik Hautakoski ]
+  * Adding scripts for building deb packages.
+  * New Upstream Release
+
+ -- Henrik Hautakoski <henrik@eossweden.org>  Mon, 29 Aug 2022 18:49:31 +0200
+
